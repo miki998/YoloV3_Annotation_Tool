@@ -6,6 +6,16 @@
 
 #
 #-------------------------------------------------------------------------------
+#NEW FEATURES
+#-------------------------------------------------------------------------------
+# Name:        Object bounding box label tool
+# Purpose:     Label object bboxes for ImageNet Detection data
+# Author:      aka9
+# Created:     28/07/2019
+
+#
+#-------------------------------------------------------------------------------
+
 from __future__ import division
 from tkinter import *
 from tkinter import messagebox as tkMessageBox
