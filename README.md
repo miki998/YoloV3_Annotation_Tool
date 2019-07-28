@@ -3,7 +3,7 @@
 
 The goal is to create text files in darknet yolo format that will be fed to training to the CNN. 
 Below is explained pretty much how to use the functionalities. 
-Disclaimer: Credits to ManivannanMurugavel/, you can find his repo here [documentations](https://github.com/ManivannanMurugavel/Yolo-Annotation-Tool-New-) . This repos is somewhat a correction of his repo, as being busy probably did he not notice the issue I raised about not displaying the whole picture. 
+Disclaimer: Credits to ManivannanMurugavel , you can find his repo here [documentations](https://github.com/ManivannanMurugavel/Yolo-Annotation-Tool-New-) . This repos is somewhat a correction of his repo, as being busy probably did he not notice the issue I raised about not displaying the whole picture. 
 
 
 ## General Prerequisites
