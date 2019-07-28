@@ -1,4 +1,15 @@
+#NEW FEATURES
+#-------------------------------------------------------------------------------
+# Name:        Outputting format for orders
+# Purpose:     Outputting format for orders training yoloV3
+# Author:      aka9
+# Created:     28/07/2019
+
+#
+#-------------------------------------------------------------------------------
+
 import glob, os, sys
+
 
 
 def process(current_dir):
